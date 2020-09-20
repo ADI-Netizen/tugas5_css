@@ -1,0 +1,36 @@
+.div-menu{
+    background-color: black;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    }
+
+.div-menu a.menu{
+    color: white;
+}
+
+.slider-div{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 30px; 
+}
+
+p{
+    text-align: justify;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footer{
+    font-size: 18px;
+}
+
+.footer-alamat{
+    font-size: 12px;
+}
